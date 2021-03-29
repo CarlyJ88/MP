@@ -1,7 +1,7 @@
 import './App.css';
 
-import Test1 from './Test1';
-import Test2 from './Test2';
+import Test1 from './Question1/Test1';
+import Test2 from './Question2/Test2';
 
 function App() {
   return (
